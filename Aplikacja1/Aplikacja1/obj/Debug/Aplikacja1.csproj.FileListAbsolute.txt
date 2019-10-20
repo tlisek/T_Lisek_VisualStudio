@@ -1,0 +1,5 @@
+/Users/tomaszlisek/Projects/Aplikacja1/Aplikacja1/bin/Debug/Aplikacja1.exe
+/Users/tomaszlisek/Projects/Aplikacja1/Aplikacja1/bin/Debug/Aplikacja1.pdb
+/Users/tomaszlisek/Projects/Aplikacja1/Aplikacja1/obj/Debug/Aplikacja1.csprojAssemblyReference.cache
+/Users/tomaszlisek/Projects/Aplikacja1/Aplikacja1/obj/Debug/Aplikacja1.exe
+/Users/tomaszlisek/Projects/Aplikacja1/Aplikacja1/obj/Debug/Aplikacja1.pdb
