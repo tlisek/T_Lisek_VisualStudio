@@ -1,0 +1,8 @@
+nop - Nic nie rób (No Operation)
+ldstr "Hello World." - Odłóż na stos String "Hello World."
+call void [mscorlib]System.Console::WriteLine(string) - Wywołaj metodę WriteLine
+nop
+call valuetype [mscorlib]System.ConsoleKeyInfo [mscorlib]System.Console::ReadKey() - Wysołaj metodę ReadKey()
+pop - Zdejmij wartość ze stosu
+ret - Return
+
