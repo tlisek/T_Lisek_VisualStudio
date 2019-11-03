@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tomaszlisek/Projects/VisualStudio_TomaszLisek/Lab3/Lab3/Lab3.csproj": {}
+    "/Users/tomaszlisek/Documents/GitHub/T_Lisek_VisualStudio/Lab3/Lab3/Lab3.csproj": {}
   },
   "projects": {
-    "/Users/tomaszlisek/Projects/VisualStudio_TomaszLisek/Lab3/Lab3/Lab3.csproj": {
+    "/Users/tomaszlisek/Documents/GitHub/T_Lisek_VisualStudio/Lab3/Lab3/Lab3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tomaszlisek/Projects/VisualStudio_TomaszLisek/Lab3/Lab3/Lab3.csproj",
+        "projectUniqueName": "/Users/tomaszlisek/Documents/GitHub/T_Lisek_VisualStudio/Lab3/Lab3/Lab3.csproj",
         "projectName": "Lab3",
-        "projectPath": "/Users/tomaszlisek/Projects/VisualStudio_TomaszLisek/Lab3/Lab3/Lab3.csproj",
+        "projectPath": "/Users/tomaszlisek/Documents/GitHub/T_Lisek_VisualStudio/Lab3/Lab3/Lab3.csproj",
         "packagesPath": "/Users/tomaszlisek/.nuget/packages/",
-        "outputPath": "/Users/tomaszlisek/Projects/VisualStudio_TomaszLisek/Lab3/Lab3/obj/",
+        "outputPath": "/Users/tomaszlisek/Documents/GitHub/T_Lisek_VisualStudio/Lab3/Lab3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tomaszlisek/.config/NuGet/NuGet.Config"

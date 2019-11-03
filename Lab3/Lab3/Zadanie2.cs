@@ -10,11 +10,11 @@ namespace Lab3 {
       y = 0;
     }
 
-    public void IncrX() {
-      x++;
+    public void IncrX(dx) {
+      x += dx;
     }
-    public void IncrY() {
-      y++;
+    public void IncrY(dy) {
+      y += dy;
     }
 
     public void Print2DPoint() {
@@ -40,11 +40,11 @@ namespace Lab3 {
       y = 0;
     }
 
-    public void IncrX() {
-      x++;
+    public void IncrX(dx) {
+      x += dx;
     }
-    public void IncrY() {
-      y++;
+    public void IncrY(dy) {
+      y += dy;
     }
 
     public void Print2DPoint() {
