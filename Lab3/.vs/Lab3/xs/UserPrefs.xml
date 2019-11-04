@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{7CF1DDDB-BF33-4F5E-A2B1-130FBA51F616}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Lab3/Zadanie2.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab3/Zadanie1.cs">
     <Files>
       <File FileName="Lab3/Program.cs" Line="10" Column="1" IsPinned="True" />
-      <File FileName="Lab3/Zadanie1.cs" Line="17" Column="6" />
+      <File FileName="Lab3/Zadanie1.cs" Line="25" Column="1" />
       <File FileName="Lab3/Zadanie2.cs" Line="43" Column="22" />
     </Files>
     <Pads>
@@ -10,7 +10,7 @@
         <State name="__root__">
           <Node name="Lab3" expanded="True">
             <Node name="Lab3" expanded="True">
-              <Node name="Zadanie2.cs" selected="True" />
+              <Node name="Zadanie1.cs" selected="True" />
             </Node>
           </Node>
         </State>
