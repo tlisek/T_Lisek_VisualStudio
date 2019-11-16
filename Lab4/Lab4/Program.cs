@@ -23,6 +23,12 @@ namespace Lab4 {
       Zadanie6 Z6 = new Zadanie6();
       //Z6.Run();
 
+      Zadanie7 Z7 = new Zadanie7();
+      //Z7.Run();
+
+      Zadanie8 Z8 = new Zadanie8();
+      //Z8.Run();
+
     }
   }
 }
