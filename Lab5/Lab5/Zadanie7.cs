@@ -27,8 +27,10 @@ namespace Lab5 {
 
     public void AddElem(int c_idx, int l_idx, int item) {
       //indexing from 0
-      int pos = c * l_idx + c_idx; // num_rows * row + num_col
-      matrix[pos] += item;
+      if (c_idx < c && l_idx < l) {
+        int pos = c * l_idx + c_idx; // num_rows * row + num_col
+        matrix[pos] += item;
+      }
     }
 
     public int GetC() {

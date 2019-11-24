@@ -79,6 +79,11 @@ namespace Lab5 {
 
     }
 
+    public void Remove(Book b) {
+      var idx = _books.FindIndex(_b => _b.ISBN == b.ISBN);
+      if (idx >= 0) _books.RemoveAt(idx);
+    }
+
     public void ListBooks() {
       foreach (Book b in _books) {
         Console.WriteLine(b);

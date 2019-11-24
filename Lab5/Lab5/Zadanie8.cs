@@ -10,7 +10,7 @@ namespace Lab5 {
       c = _c;
       l = _l;
 
-      matrix = new int[c][];
+      matrix = new int[l][];
 
       for (int l_ind = 0; l_ind < _l; l_ind++) {
         matrix[l_ind] = new int[_c];
@@ -31,7 +31,9 @@ namespace Lab5 {
     }
 
     public void AddElem(int c_idx, int l_idx, int item) {
-      matrix[l_idx][c_idx] += item;
+      if (c_idx < c && l_idx < l) {
+        matrix[l_idx][c_idx] += item;
+      }
     }
 
     public int GetC() {
