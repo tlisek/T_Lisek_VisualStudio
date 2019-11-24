@@ -24,7 +24,13 @@ namespace Lab5 {
       //Z6.Run();
 
       Zadanie7 Z7 = new Zadanie7();
-      Z7.Run();
+      //Z7.Run();
+
+      Zadanie8 Z8 = new Zadanie8();
+      //Z8.Run();
+
+      Zadanie9 Z9 = new Zadanie9();
+      Z9.Run();
 
 
     }
