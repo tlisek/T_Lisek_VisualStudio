@@ -1,0 +1,5 @@
+/Users/tomaszlisek/Documents/GitHub/T_Lisek_VisualStudio/Lab6/Lab6/bin/Debug/Lab6.exe
+/Users/tomaszlisek/Documents/GitHub/T_Lisek_VisualStudio/Lab6/Lab6/bin/Debug/Lab6.pdb
+/Users/tomaszlisek/Documents/GitHub/T_Lisek_VisualStudio/Lab6/Lab6/obj/Debug/Lab6.csprojAssemblyReference.cache
+/Users/tomaszlisek/Documents/GitHub/T_Lisek_VisualStudio/Lab6/Lab6/obj/Debug/Lab6.exe
+/Users/tomaszlisek/Documents/GitHub/T_Lisek_VisualStudio/Lab6/Lab6/obj/Debug/Lab6.pdb
