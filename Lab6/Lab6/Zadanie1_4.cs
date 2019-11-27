@@ -29,7 +29,10 @@ namespace Lab6 {
 
 
       Console.WriteLine( Choinka[0] );
-      Console.WriteLine( ((ChristmasTree)(ChoinkaA))[0] ); // Tu ma być metoda z ChoinkaA zamiast z Choinka
+
+      Console.WriteLine(ChoinkaA[0]); 
+      Console.WriteLine(((ChristmasTree)(ChoinkaA))[0]); // Tu ma być metoda z ChoinkaA zamiast z Choinka
+
       Console.WriteLine( ((ChristmasTreeA)(ChoinkaB))[0] );
       Console.WriteLine( ChoinkaB[0] );
 
@@ -102,7 +105,7 @@ namespace Lab6 {
   public class ChristmasTree : Fir {
     public ChristmasTree(string name, int age) : base(name, age) { }
 
-    public string this[int idx] {
+    public virtual string this[int idx] {
       get {
         Baubble b = _baubbles[idx];
         return b.Color;
@@ -112,7 +115,7 @@ namespace Lab6 {
       }
     }
 
-    public int this[string color] {
+    public  int this[string color] {
       get {
         List<Baubble> foundBaubbles = _baubbles.FindAll(b => b.Color == color);
         return foundBaubbles.Count;
@@ -124,7 +127,7 @@ namespace Lab6 {
   public class ChristmasTreeA : ChristmasTree {
     public ChristmasTreeA(string name, int age) : base(name, age) { }
 
-    public string this[int idx] { // ToDo rzutowanie nie działa tak jak ma
+    public override string this[int idx] { // ToDo rzutowanie nie działa tak jak ma
       get {
         Baubble b = _baubbles[idx];
         return b.Type;
