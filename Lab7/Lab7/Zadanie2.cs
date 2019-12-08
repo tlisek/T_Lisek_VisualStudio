@@ -6,8 +6,11 @@ namespace Lab7 {
       Point p1 = new Point(1, 1);
       Point p2 = new Point(5, -2);
 
+      Point p3 = 5;
+
       Console.WriteLine(p1);
       Console.WriteLine(p2);
+      Console.WriteLine(p3);
 
       p1++;
       p2--;
@@ -40,7 +43,6 @@ namespace Lab7 {
       _x = x;
       _y = y;
     }
-
 
     public override string ToString() {
       return "{" + String.Format("{0}; {1}", _x, _y) + "}";
@@ -86,15 +88,16 @@ namespace Lab7 {
       return new Point(p.X - 1, p.Y - 1);
     }
 
+    public static implicit operator Point(int v) {
+      return new Point(v, v);
+    }
+
 
     public static explicit operator int(Point p) {
       return p.X + p.Y;
     }
 
-
-    //public static Point operator +(Point p, int x) {
-    //  return new Point(x, 0);
-    //}
+    // += Assignment operators cannot be overloaded, but +=, for example, is evaluated using +, which can be overloaded.
   }
 
 }

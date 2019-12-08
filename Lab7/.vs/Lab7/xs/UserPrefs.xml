@@ -1,17 +1,16 @@
 ﻿<Properties StartupConfiguration="{14F29E43-C3DE-4CD0-B9C8-9133B77002AA}|Default">
   <MonoDevelop.Ide.ItemProperties.Lab7 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Lab7/Zadanie2.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab7/Zadanie3.cs">
     <Files>
-      <File FileName="Lab7/Program.cs" Line="16" Column="1" />
-      <File FileName="Lab7/Zadanie1.cs" Line="13" Column="24" />
-      <File FileName="Lab7/Zadanie2.cs" Line="95" Column="42" />
+      <File FileName="Lab7/Program.cs" Line="13" Column="36" />
+      <File FileName="Lab7/Zadanie3.cs" Line="8" Column="36" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Lab7" expanded="True">
             <Node name="Lab7" expanded="True">
-              <Node name="Zadanie2.cs" selected="True" />
+              <Node name="Zadanie3.cs" selected="True" />
             </Node>
           </Node>
         </State>

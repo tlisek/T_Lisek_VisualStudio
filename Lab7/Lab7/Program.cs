@@ -8,7 +8,10 @@ namespace Lab7 {
       //Z1.Run();
 
       Zadanie2 Z2 = new Zadanie2();
-      Z2.Run();
+      //Z2.Run();
+
+      Zadanie3 Z3 = new Zadanie3();
+      //Z3.Run();
 
     }
   }
