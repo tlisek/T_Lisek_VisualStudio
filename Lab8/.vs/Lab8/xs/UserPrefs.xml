@@ -1,16 +1,16 @@
-﻿<Properties StartupConfiguration="{14F29E43-C3DE-4CD0-B9C8-9133B77002AA}|Default">
-  <MonoDevelop.Ide.ItemProperties.Lab7 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Lab7/Zadanie1.cs">
+﻿<Properties StartupConfiguration="{D6A82E50-8C03-4863-AD4E-E40204FDF17D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab8/Zadanie1.cs">
     <Files>
-      <File FileName="Lab7/Program.cs" Line="13" Column="36" />
-      <File FileName="Lab7/Zadanie3.cs" Line="13" Column="57" />
-      <File FileName="Lab7/Zadanie1.cs" Line="78" Column="18" />
+      <File FileName="Lab8/Program.cs" Line="15" Column="18" />
+      <File FileName="Lab8/Zadanie2.cs" Line="39" Column="1" />
+      <File FileName="Lab8/Zadanie3.cs" Line="47" Column="1" />
+      <File FileName="Lab8/Zadanie1.cs" Line="39" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Lab7" expanded="True">
-            <Node name="Lab7" expanded="True">
+          <Node name="Lab8" expanded="True">
+            <Node name="Lab8" expanded="True">
               <Node name="Zadanie1.cs" selected="True" />
             </Node>
           </Node>
@@ -21,6 +21,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab8 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
