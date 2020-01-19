@@ -3,12 +3,12 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Lab10/Zadanie7.cs">
     <Files>
       <File FileName="Lab10/Program.cs" Line="7" Column="1" />
-      <File FileName="Lab10/Zadanie1.cs" Line="7" Column="31" />
-      <File FileName="Lab10/Zadanie2.cs" Line="9" Column="24" />
-      <File FileName="Lab10/Zadanie3.cs" Line="8" Column="22" />
-      <File FileName="Lab10/Zadanie4.cs" Line="1" Column="14" />
-      <File FileName="Lab10/Zadanie5.cs" Line="10" Column="22" />
-      <File FileName="Lab10/Zadanie6.cs" Line="12" Column="31" />
+      <File FileName="Lab10/Zadanie1.cs" />
+      <File FileName="Lab10/Zadanie2.cs" />
+      <File FileName="Lab10/Zadanie3.cs" />
+      <File FileName="Lab10/Zadanie4.cs" />
+      <File FileName="Lab10/Zadanie5.cs" />
+      <File FileName="Lab10/Zadanie6.cs" />
       <File FileName="Lab10/Zadanie7.cs" Line="4" Column="18" />
     </Files>
     <Pads>
@@ -20,9 +20,6 @@
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
